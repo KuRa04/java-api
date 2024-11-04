@@ -1,4 +1,4 @@
-package lang.sampleInterface;
+package lang.ExampleInterface;
 
 import java.io.IOException;
 

@@ -3,7 +3,7 @@
 ## インターフェース
 
 - [x] `Appendable`
-- [ ] `AutoCloseable`
+- [x] `AutoCloseable`
 - [ ] `CharSequence`
 - [ ] `Cloneable`
 - [ ] `Comparable`

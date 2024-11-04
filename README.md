@@ -2,7 +2,7 @@
 
 ## インターフェース
 
-- [ ] `Appendable`
+- [x] `Appendable`
 - [ ] `AutoCloseable`
 - [ ] `CharSequence`
 - [ ] `Cloneable`

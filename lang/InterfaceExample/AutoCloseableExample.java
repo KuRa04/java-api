@@ -1,4 +1,4 @@
-package lang.ExampleInterface;
+package lang.InterfaceExample;
 
 public class AutoCloseableExample implements AutoCloseable {
 

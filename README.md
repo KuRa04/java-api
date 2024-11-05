@@ -4,7 +4,7 @@
 
 - [x] `Appendable`
 - [x] `AutoCloseable`
-- [ ] `CharSequence`
+- [x] `CharSequence`
 - [ ] `Cloneable`
 - [ ] `Comparable`
 - [ ] `Readable`

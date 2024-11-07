@@ -5,8 +5,8 @@
 - [x] `Appendable`
 - [x] `AutoCloseable`
 - [x] `CharSequence`
-- [ ] `Cloneable`
-- [ ] `Comparable`
+- [x] `Cloneable`
+- [x] `Comparable`
 - [ ] `Readable`
 - [ ] `Runnable`
 

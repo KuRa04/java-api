@@ -7,6 +7,7 @@
 - [x] `CharSequence`
 - [x] `Cloneable`
 - [x] `Comparable`
+- [x] `Iterable`
 - [ ] `Readable`
 - [ ] `Runnable`
 

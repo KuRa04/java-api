@@ -37,9 +37,12 @@ public class CharSequenceExample implements CharSequence {
     System.out.println("String representation: " + example.toString());
     System.out.println("String representation: " + example.chars());
     System.out.println("String representation: " + example.isEmpty());
-    example.chars().forEach(c -> System.out.println("Code point: " + c));
-    example.codePoints().forEach(codePoint -> System.out.println("Code point: " + codePoint + "Character: " + (char) codePoint));
 
+    // 42行目と43行目は同じ意味
+    example.chars().forEach(c -> System.out.println(c));
+    example.chars().forEach(System.out::println);
 
+    example.codePoints().forEach(codePoint -> System.out.println("Code point: " +
+        codePoint + "Character: " + (char) codePoint));
   }
 }

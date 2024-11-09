@@ -5,9 +5,9 @@
 - [x] `Appendable`
 - [x] `AutoCloseable`
 - [x] `CharSequence`
-- [x] `Cloneable`
 - [x] `Comparable`
 - [x] `Iterable`
+- [x] `ProcessHandle`
 - [ ] `Readable`
 - [ ] `Runnable`
 

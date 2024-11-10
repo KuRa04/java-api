@@ -8,6 +8,7 @@
 - [x] `Comparable`
 - [x] `Iterable`
 - [x] `ProcessHandle`
+- [x] `ProcessHandle.Info`
 - [ ] `Readable`
 - [ ] `Runnable`
 

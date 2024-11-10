@@ -9,7 +9,7 @@
 - [x] `Iterable`
 - [x] `ProcessHandle`
 - [x] `ProcessHandle.Info`
-- [ ] `Readable`
+- [x] `Readable`
 - [ ] `Runnable`
 
 ## クラス

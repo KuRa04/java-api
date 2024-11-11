@@ -11,6 +11,7 @@
 - [x] `ProcessHandle.Info`
 - [x] `Readable`
 - [ ] `Runnable`
+- [x] `StackWalker.StackFrame`
 
 ## クラス
 

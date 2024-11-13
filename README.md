@@ -12,6 +12,7 @@
 - [x] `Readable`
 - [ ] `Runnable`
 - [x] `StackWalker.StackFrame`
+- [x] `System.Logger`
 
 ## クラス
 

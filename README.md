@@ -14,6 +14,7 @@
 - [x] `StackWalker.StackFrame`
 - [x] `System.Logger`
 - [x] `Thread.Builder`
+- [x] `Thread.Builder.OfPlatform`
 
 ## クラス
 

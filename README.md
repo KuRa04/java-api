@@ -13,6 +13,7 @@
 - [ ] `Runnable`
 - [x] `StackWalker.StackFrame`
 - [x] `System.Logger`
+- [x] `Thread.Builder`
 
 ## クラス
 

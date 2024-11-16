@@ -15,6 +15,7 @@
 - [x] `System.Logger`
 - [x] `Thread.Builder`
 - [x] `Thread.Builder.OfPlatform`
+- [x] `Thread.Builder.OfVirtual`
 
 ## クラス
 

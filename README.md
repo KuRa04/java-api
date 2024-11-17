@@ -16,6 +16,7 @@
 - [x] `Thread.Builder`
 - [x] `Thread.Builder.OfPlatform`
 - [x] `Thread.Builder.OfVirtual`
+- [x] `Thread.UncaughtExceptionHandler`
 
 ## クラス
 

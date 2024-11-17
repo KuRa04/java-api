@@ -20,7 +20,7 @@
 
 ## クラス
 
-- [ ] `Boolean`
+- [x] `Boolean`
 - [ ] `Byte`
 - [ ] `Character`
 - [ ] `Class`

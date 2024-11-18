@@ -1,7 +1,7 @@
 package lang.InterfaceExample;
 
 public class UncaughtExceptionHandlerExample {
-  
+
     public static void main(String[] args) {
         Thread.UncaughtExceptionHandler handler = new Thread.UncaughtExceptionHandler() {
             @Override

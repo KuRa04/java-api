@@ -21,7 +21,7 @@
 ## クラス
 
 - [x] `Boolean`
-- [ ] `Byte`
+- [x] `Byte`
 - [ ] `Character`
 - [ ] `Class`
 - [ ] `ClassLoader`

@@ -22,7 +22,7 @@
 
 - [x] `Boolean`
 - [x] `Byte`
-- [ ] `Character`
+- [x] `Character`
 - [ ] `Class`
 - [ ] `ClassLoader`
 - [ ] `Compiler`

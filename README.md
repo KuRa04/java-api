@@ -23,6 +23,7 @@
 - [x] `Boolean`
 - [x] `Byte`
 - [x] `Character`
+- [x] `Character.Subset`
 - [ ] `Class`
 - [ ] `ClassLoader`
 - [ ] `Compiler`

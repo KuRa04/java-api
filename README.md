@@ -24,6 +24,7 @@
 - [x] `Byte`
 - [x] `Character`
 - [x] `Character.Subset`
+- [x] `Character.UnicodeBlock`
 - [ ] `Class`
 - [ ] `ClassLoader`
 - [ ] `Compiler`

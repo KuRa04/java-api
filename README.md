@@ -26,7 +26,7 @@
 - [x] `Character.Subset`
 - [x] `Character.UnicodeBlock`
 - [x] `Class`
-- [ ] `ClassLoader`
+- [x] `ClassLoader`
 - [ ] `Compiler`
 - [ ] `Double`
 - [ ] `Enum`

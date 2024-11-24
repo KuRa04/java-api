@@ -27,6 +27,7 @@
 - [x] `Character.UnicodeBlock`
 - [x] `Class`
 - [x] `ClassLoader`
+- [x] `ClassValue`
 - [ ] `Compiler`
 - [ ] `Double`
 - [ ] `Enum`

@@ -29,7 +29,7 @@
 - [x] `ClassLoader`
 - [x] `ClassValue`
 - [x] `Double`
-- [ ] `Enum`
+- [x] `Enum`
 - [ ] `Float`
 - [ ] `InheritableThreadLocal`
 - [ ] `Integer`

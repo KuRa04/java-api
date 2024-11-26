@@ -10,7 +10,7 @@
 - [x] `ProcessHandle`
 - [x] `ProcessHandle.Info`
 - [x] `Readable`
-- [ ] `Runnable`
+- [x] `Runnable`
 - [x] `StackWalker.StackFrame`
 - [x] `System.Logger`
 - [x] `Thread.Builder`

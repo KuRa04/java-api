@@ -28,8 +28,7 @@
 - [x] `Class`
 - [x] `ClassLoader`
 - [x] `ClassValue`
-- [ ] `Compiler`
-- [ ] `Double`
+- [x] `Double`
 - [ ] `Enum`
 - [ ] `Float`
 - [ ] `InheritableThreadLocal`

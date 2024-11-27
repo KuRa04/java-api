@@ -30,6 +30,7 @@
 - [x] `ClassValue`
 - [x] `Double`
 - [x] `Enum`
+- [x] `Enum.EnumDesc`
 - [ ] `Float`
 - [ ] `InheritableThreadLocal`
 - [ ] `Integer`

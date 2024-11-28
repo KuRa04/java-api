@@ -31,7 +31,7 @@
 - [x] `Double`
 - [x] `Enum`
 - [x] `Enum.EnumDesc`
-- [ ] `Float`
+- [x] `Float`
 - [ ] `InheritableThreadLocal`
 - [ ] `Integer`
 - [ ] `Long`

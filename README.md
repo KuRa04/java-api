@@ -32,7 +32,7 @@
 - [x] `Enum`
 - [x] `Enum.EnumDesc`
 - [x] `Float`
-- [ ] `InheritableThreadLocal`
+- [x] `InheritableThreadLocal`
 - [ ] `Integer`
 - [ ] `Long`
 - [ ] `Math`

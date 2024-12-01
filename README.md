@@ -34,7 +34,7 @@
 - [x] `Float`
 - [x] `InheritableThreadLocal`
 - [x] `Integer`
-- [ ] `Long`
+- [x] `Long`
 - [ ] `Math`
 - [ ] `Module`
 - [ ] `Object`

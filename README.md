@@ -33,7 +33,7 @@
 - [x] `Enum.EnumDesc`
 - [x] `Float`
 - [x] `InheritableThreadLocal`
-- [ ] `Integer`
+- [x] `Integer`
 - [ ] `Long`
 - [ ] `Math`
 - [ ] `Module`

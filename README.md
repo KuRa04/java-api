@@ -35,7 +35,7 @@
 - [x] `InheritableThreadLocal`
 - [x] `Integer`
 - [x] `Long`
-- [ ] `Math`
+- [x] `Math`
 - [ ] `Module`
 - [ ] `Object`
 - [ ] `Package`

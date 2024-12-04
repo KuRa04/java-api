@@ -36,7 +36,7 @@
 - [x] `Integer`
 - [x] `Long`
 - [x] `Math`
-- [ ] `Module`
+- [x] `Module`
 - [ ] `Object`
 - [ ] `Package`
 - [ ] `Process`

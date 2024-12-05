@@ -38,6 +38,7 @@
 - [x] `Math`
 - [x] `Module`
 - [x] `ModuleLayer`
+- [x] `ModuleLayerController`
 - [ ] `Object`
 - [ ] `Package`
 - [ ] `Process`

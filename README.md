@@ -37,6 +37,7 @@
 - [x] `Long`
 - [x] `Math`
 - [x] `Module`
+- [x] `ModuleLayer`
 - [ ] `Object`
 - [ ] `Package`
 - [ ] `Process`

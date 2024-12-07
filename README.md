@@ -40,7 +40,7 @@
 - [x] `ModuleLayer`
 - [x] `ModuleLayerController`
 - [x] `Number`
-- [ ] `Object`
+- [x] `Object`
 - [ ] `Package`
 - [ ] `Process`
 - [ ] `ProcessBuilder`

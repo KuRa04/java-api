@@ -42,7 +42,7 @@
 - [x] `Number`
 - [x] `Object`
 - [x] `Package`
-- [ ] `Process`
+- [x] `Process`
 - [ ] `ProcessBuilder`
 - [ ] `Runtime`
 - [ ] `Short`

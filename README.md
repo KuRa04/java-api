@@ -43,7 +43,7 @@
 - [x] `Object`
 - [x] `Package`
 - [x] `Process`
-- [ ] `ProcessBuilder`
+- [x] `ProcessBuilder`
 - [ ] `Runtime`
 - [ ] `Short`
 - [ ] `StackWalker`

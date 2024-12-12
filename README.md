@@ -44,6 +44,7 @@
 - [x] `Package`
 - [x] `Process`
 - [x] `ProcessBuilder`
+- [x] `ProcessBuilder.Redirect`
 - [ ] `Runtime`
 - [ ] `Short`
 - [ ] `StackWalker`

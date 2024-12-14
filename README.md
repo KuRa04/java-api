@@ -47,6 +47,7 @@
 - [x] `ProcessBuilder.Redirect`
 - [x] `Record`
 - [x] `Runtime`
+- [x] `Runtime.Version`
 - [ ] `Short`
 - [ ] `StackWalker`
 - [ ] `StrictMath`

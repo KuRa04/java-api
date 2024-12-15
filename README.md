@@ -48,6 +48,7 @@
 - [x] `Record`
 - [x] `Runtime`
 - [x] `Runtime.Version`
+- [x] `Runtime.Permission`
 - [ ] `Short`
 - [ ] `StackWalker`
 - [ ] `StrictMath`

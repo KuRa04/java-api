@@ -49,7 +49,7 @@
 - [x] `Runtime`
 - [x] `Runtime.Version`
 - [x] `Runtime.Permission`
-- [ ] `Short`
+- [x] `Short`
 - [ ] `StackWalker`
 - [ ] `StrictMath`
 - [ ] `String`

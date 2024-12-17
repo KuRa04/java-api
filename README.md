@@ -50,6 +50,7 @@
 - [x] `Runtime.Version`
 - [x] `Runtime.Permission`
 - [x] `Short`
+- [x] `StackTraceElement`
 - [ ] `StackWalker`
 - [ ] `StrictMath`
 - [ ] `String`

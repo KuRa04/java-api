@@ -51,7 +51,7 @@
 - [x] `Runtime.Permission`
 - [x] `Short`
 - [x] `StackTraceElement`
-- [ ] `StackWalker`
+- [x] `StackWalker`
 - [ ] `StrictMath`
 - [ ] `String`
 - [ ] `StringBuilder`

@@ -10,8 +10,6 @@ public class RuntimePermissionExample {
       System.out.println("Permission granted: " + permission.getName());
       System.out.println("Permission granted: " + permission.getActions());
       System.out.println("Permission granted: " + permission.implies(permission));
-    } else {
-      System.out.println("Permission denied.");
     }
   }
 }

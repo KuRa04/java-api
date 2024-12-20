@@ -52,7 +52,7 @@
 - [x] `Short`
 - [x] `StackTraceElement`
 - [x] `StackWalker`
-- [ ] `StrictMath`
+- [x] `StrictMath`
 - [ ] `String`
 - [ ] `StringBuilder`
 - [ ] `StringBuffer`

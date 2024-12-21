@@ -53,7 +53,7 @@
 - [x] `StackTraceElement`
 - [x] `StackWalker`
 - [x] `StrictMath`
-- [ ] `String`
+- [x] `String`
 - [ ] `StringBuilder`
 - [ ] `StringBuffer`
 - [ ] `System`

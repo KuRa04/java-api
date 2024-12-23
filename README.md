@@ -55,7 +55,7 @@
 - [x] `StrictMath`
 - [x] `String`
 - [ ] `StringBuilder`
-- [ ] `StringBuffer`
+- [x] `StringBuffer`
 - [ ] `System`
 - [ ] `Thread`
 - [ ] `ThreadGroup`

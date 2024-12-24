@@ -54,7 +54,7 @@
 - [x] `StackWalker`
 - [x] `StrictMath`
 - [x] `String`
-- [ ] `StringBuilder`
+- [x] `StringBuilder`
 - [x] `StringBuffer`
 - [ ] `System`
 - [ ] `Thread`

@@ -56,7 +56,7 @@
 - [x] `String`
 - [x] `StringBuilder`
 - [x] `StringBuffer`
-- [ ] `System`
+- [x] `System`
 - [ ] `Thread`
 - [ ] `ThreadGroup`
 - [ ] `ThreadLocal`

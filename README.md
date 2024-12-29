@@ -60,7 +60,7 @@
 - [x] `SystemLoggerFinder`
 - [x] `Thread`
 - [x] `ThreadGroup`
-- [ ] `ThreadLocal`
+- [x] `ThreadLocal`
 - [ ] `Throwable`
 - [ ] `Void`
 

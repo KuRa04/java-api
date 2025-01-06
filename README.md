@@ -61,51 +61,8 @@
 - [x] `Thread`
 - [x] `ThreadGroup`
 - [x] `ThreadLocal`
-- [ ] `Throwable`
-- [ ] `Void`
 
-## 例外クラス
+# java.ioパッケージ
 
-- [ ] `ArithmeticException`
-- [ ] `ArrayIndexOutOfBoundsException`
-- [ ] `ArrayStoreException`
-- [ ] `ClassCastException`
-- [ ] `ClassNotFoundException`
-- [ ] `CloneNotSupportedException`
-- [ ] `EnumConstantNotPresentException`
-- [ ] `Exception`
-- [ ] `IllegalAccessException`
-- [ ] `IllegalArgumentException`
-- [ ] `IllegalCallerException`
-- [ ] `IllegalMonitorStateException`
-- [ ] `IllegalStateException`
-- [ ] `IllegalThreadStateException`
-- [ ] `IndexOutOfBoundsException`
-- [ ] `InstantiationException`
-- [ ] `InterruptedException`
-- [ ] `LayerInstantiationException`
-- [ ] `LinkageError`
-- [ ] `NegativeArraySizeException`
-- [ ] `NoClassDefFoundError`
-- [ ] `NoSuchFieldError`
-- [ ] `NoSuchFieldException`
-- [ ] `NoSuchMethodError`
-- [ ] `NoSuchMethodException`
-- [ ] `NullPointerException`
-- [ ] `NumberFormatException`
-- [ ] `OutOfMemoryError`
-- [ ] `SecurityException`
-- [ ] `StackOverflowError`
-- [ ] `StringIndexOutOfBoundsException`
-- [ ] `TypeNotPresentException`
-- [ ] `UnsupportedOperationException`
-- [ ] `VerifyError`
-- [ ] `VirtualMachineError`
-
-## 注釈インターフェース
-
-- [ ] `Deprecated`
-- [ ] `FunctionalInterface`
-- [ ] `Override`
-- [ ] `SafeVarargs`
-- [ ] `SuppressWarnings`
+## インターフェース
+- [x] `Closeable`

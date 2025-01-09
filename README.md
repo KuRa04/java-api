@@ -66,3 +66,4 @@
 
 ## インターフェース
 - [x] `Closeable`
+- [x] `DataInput`
